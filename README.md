@@ -20,4 +20,4 @@ Demo
 ------
 After successfully completing basic installation, you'll be ready to run the demo.
 
-To run the demo, just run the 'demo.m' in the root folder.
+To run the demo, just run the 'demo.m' in the root folder. The code has been tested with Matlab 2017a on Windows 10.
