@@ -10,6 +10,13 @@ Citation
 ----
 If you find IBCCF useful in your research, please consider citing:
 
+@inproceedings{li2017integrating,
+  title={Integrating Boundary and Center Correlation Filters for Visual Tracking with Aspect Ratio Variation},
+  author={Li, Feng and Yao, Yingjie and Li, Peihua and Zhang, David and Zuo, Wangmeng and Yang, Ming-Hsuan},
+  booktitle={ICCVW},
+  year={2017}
+}
+
 Installation
 ----
 1. Building [Matconvnet](http://www.vlfeat.org/matconvnet/) library. Please follow the [instructions](http://www.vlfeat.org/matconvnet/install/)  to build the mex files on your system.
