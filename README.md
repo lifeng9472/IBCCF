@@ -6,6 +6,8 @@ Introduction
 ----
 IBCCF is a Correlation filter (CF) based method for visual tracking. While several approaches have been proposed for scale adaptive tracking on CF-based trackers, the aspect ratio variation remains an open problem during tracking. IBCCF addresses this issue by introducing a family of 1D boundary CFs to localize the left, right, top, and bottom boundaries in videos. For more details, please refer to our paper. 
 
+The paper link is: http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w28/Li_Integrating_Boundary_and_ICCV_2017_paper.pdf
+
 Citation
 ----
 If you find IBCCF useful in your research, please consider citing:
